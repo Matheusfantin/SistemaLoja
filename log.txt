@@ -1,0 +1,5 @@
+
+
+fezer este insert no banco 
+
+insert into usuario (Usuario,Senha) values ('admin','admin');
